@@ -20,7 +20,7 @@
   <br>
  <br>
    <p>Connect with me:</p>
-  <a href="https://twitter.com/__the__gowda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik__177" height="30" width="40" /></a>
+  <a href="https://twitter.com/__the__gowda_" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fali-han%2FTwitter-x-icon-logo%2Fmain%2Fdark%2FTwitter%2520X%2520Icon.png&f=1&nofb=1&ipt=a2a10a1a4d771333c5c01d8ca6241181ce449c124114658be390946cfde5a302&ipo=images" alt="karthik__177" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/santhosh-gowda-6462932b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
   <a href="https://instagram.com/__the__gowda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthik__177" height="30" width="40" /></a>
   </p>
